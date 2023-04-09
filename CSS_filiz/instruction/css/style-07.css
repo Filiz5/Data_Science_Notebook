@@ -1,0 +1,11 @@
+nav.main-menu{
+background-color: lightgrey;
+text-align: center;
+
+}
+
+.active{
+
+    background-color: darkgreen;
+    color:beige
+}

@@ -1,0 +1,32 @@
+Daha önce tanımlı bir GitHub hesabınız olduğunu ve 
+Bilgisayarınızda GitBash kurulu olduğunu (https://git-scm.com/downloads) varsayarak;
+
+
+Windows ta Git Bash kullanarak kopyalamak istediğiniz klasöre gelerek 
+(örneğin "DS-150 Github folder" oluşturup onun içinde)
+oradan sağ tık ile Git Bash Here uygulamasını calıştırdıktan sonra bu kodu : 
+
+      git clone https://github.com/techproeducation-batchs/B150-DataScience-TR.git
+
+
+
+    
+ yazıp Enter deyince istediğiniz klasöre tüm dosyaları indirecektir. 
+
+Gith Bash te CTRL+V kısayolu çalışmıyor !!! 
+
+Mouse sağ click le kopyala + yapıştır kullanabilirsiniz. 
+Öncelikle Git Bash uygulaması bilgisayarınızda yüklü olması lazım. 
+
+
+
+***İlk yüklemeden sonra belli peryotlarda sadece yeni yüklenen dosyaları indirmek için;***
+
+Bu işlemlerden sonra günlük olarak kopyalama işlemi için ilgili klasöre gidip tekrar
+ sağ click le Git Bash Here tıklayıp sadece  
+
+ 	git pull  
+
+komutu ile günlük kopyalama yapabilirsiniz. 
+
+Tekrar clone işlemi kullanmanıza gerek yok.

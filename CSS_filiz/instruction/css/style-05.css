@@ -1,0 +1,14 @@
+*{
+font-size: 1.3rem;
+color: blue;
+}
+.highlight{font-size: 1.2rem; 
+color: blue;
+}
+.center{text-align:  center;
+}
+h1.center{background-color: rgb(134, 28, 93);
+
+}
+#p1{ text-align:  justify;
+}
