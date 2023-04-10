@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+  <from action="" method="post" enctype="multipart/from-data">
+    <table>...
+
+    </table>
+  </from>  
+<table>
+    <tr>
+        <td valign=""top>
+
+            <table>
+                <tr>
+                    <td><label for="adi">Adi</label></td></td>
+                    <td><input type="text" name="adi" id="adi"required minlength="2" maxlength="30"></td>
+                </tr>
+                <tr>
+                    <td><label for="soyadi">Soyadi</label></td></td>
+                    <td><input type="text" name="soyadi" id="soyadi"required minlength="2" maxlength="30"></td>
+                </tr>
+                <tr>
+                    <td><label>Cinsiyeti</label></td>
+                    <td><input type="radio" name="cinsiyet" id="cinsiyetE" value="erkek" required>
+                    <label for="cinsiyetE"> Erkek</label>
+
+                    <td><input type="radio" name="cinsiyet" id="cinsiyetK" value="kadin" required>
+                        <label for="cinsiyetK">Kadin</label>
+                    </td>
+                </tr>
+                <tr>
+                    <td><label for="ulke">Ulke</label></td>
+                    <td><select name="ulke" id="ulke">
+                        <option value="" disabled selected> Seciniz</option>
+                        <option value="tr">Turkiye</option>
+                        <option value="usa">Usa</option>
+                        <option value="uk">UK</option>
+
+                    </select>
+                    
+                    </td>
+                </tr>
+                <tr>
+                    <td><label for="eposta">Eposta</label> </td>
+                    <td><input type="email" name="eposta", id="eposta"required></td>
+                </tr>
+                <tr>
+                    <td><label for="web">Web</label></td>
+                    <td><input type="url" name="web"id="web"> </td>
+                </tr>
+                <tr>
+                    <td><label for="telefon">Telefon</label></td>
+                    <td><input type="tel" name="telefon" id="telefon"></td>
+                </tr>
+            </table>
+
+
+
+        </td>
+        <td>
+<table>
+    <tr>
+        <td>Hobiler</td>
+        <td>
+            <input type="checkbox" name="hobiler" id="hobiFutbol">
+            <label for="hobiFutbal"> Futbol</label> <br>
+
+            <input type="checkbox" name="hobiler" id="hobiVoleybol">
+            <label for="hobiVoleybol">Voleybol</label> <br>
+
+            <input type="checkbox" name="hobiler" id="hobiBasketbol">
+            <label for="hobiBasketbol"> Futbol</label> 
+
+
+        </td>
+    </tr>
+    <tr>
+        <td><label for="profil"> Profil</label></td>
+        <td><input type="file" name="profil" id="profil"> </td>
+    </tr>
+    <tr>
+        <td><label for="dogum"></label></td>
+        <td><input type="date" name="dogum" id="dogum" required max="2015-01-01"></td>
+    </tr>
+    <tr>
+        <td><label for="adres" >Adres</label></td>
+        <td>
+            <textarea name="adres" id="adres" cols="20" rows="3"></textarea>
+        </td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>
+            <button type="submit"> Kaydet</button>
+        </td>
+        <td></td>
+    </tr>
+</table>
+
+        </td>
+    </tr>
+</table>
+
+
+
+
+
+
+</body>
+</html>

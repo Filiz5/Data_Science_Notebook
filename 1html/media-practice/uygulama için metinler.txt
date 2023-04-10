@@ -1,0 +1,69 @@
+Uygulama - 1
+
+BİLGİSAYARIN TEMEL BİLEŞENLERİ
+DONANIM
+İÇ DONANIM
+ÇEVRE BİRİMLERİ
+YAZILIM
+İŞLETİM SİSTEMİ
+PAKET PROGRAMLAR
+
+---------------------
+Uygulama - 2
+
+İSTİKLAL MARŞI
+Korkma, sönmez bu şafaklarda yüzen al sancak;
+Sönmeden yurdumun üstünde tüten en son ocak.
+O benim milletimin yıldızıdır, parlayacak;
+O benimdir, o benim milletimindir ancak.
+Çatma, kurban olayım, çehrene ey nazlı hilal!
+Kahraman ırkıma bir gül... Ne bu şiddet, bu celal?
+Sana olmaz dökülen kanlarımız sonra helal;
+Hakkıdır, Hakk'a tapan, milletimin istiklal.
+Mehmet Akif ERSOY
+
+---------------------
+Uygulama - 3
+
+Sıfırdan Komple Web Developer Eğitimi (Frontend ve Backend)
+Kurs Amacı
+“Sıfırdan Komple Web Developer Eğitimi” kursumuzun temel amacı sıfırdan web geliştirme dünyasına adım atmak isteyenlere rehberlik etmektir.
+Kurs Hedefi
+Kurs sonunda bir web developer için gereken tüm araçları ve konuları öğrenmiş olacaksınız.
+Kurs sonunda her sektöre hitap eden tanıtım siteleri , blog tarzındaki web sitelerini kolaycana hazırlayabilirsiniz.
+Hatta hazırladığınız bu sitelere bir yönetim paneli hazırlayıp site içeriklerini tek bir yerden kolaycana yönetebilirsiniz.
+1000$ yerine sadece 750$
+
+---------------------
+Uygulama - 5
+
+İstanbul
+Adalar
+Avcılar
+Bahçelievler
+Bakırköy
+Ankara
+Ulus
+Çankaya
+İzmir
+Karşıyaka
+Göztepe
+Eskişehir
+
+---------------------
+Uygulama - 6
+
+Front-end Development
+Html5
+Bölüm Tanıtımı
+İlk Web Sayfam
+CSS
+Javascript
+Bootstrap4
+Bölüm Tanıtımı
+Grid System
+Ders 1
+Ders 2
+Jquery
+
+---------------------

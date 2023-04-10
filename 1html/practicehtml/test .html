@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My Profile</title>
+</head>
+<body bgcolor="#f2f2f2">
+	<h1 style="background-color:#333; color:#fff; margin:0; padding:20px; text-align:center;">My Profile</h1>
+	<form action="submit-form.php" method="post" enctype="multipart/form-data" style="background-color:#fff; border-radius:10px; box-shadow:0 0 10px rgba(0, 0, 0, 0.1); margin:50px auto; max-width:600px; padding:20px;">
+		<fieldset>
+			<legend style="font-weight:bold;">Personal Information</legend>
+			<div style="display:flex;">
+				<div style="flex:1;">
+					<label for="firstname">adin:</label>
+					<input type="text" id="firstname" name="firstname" required><br><br>
+
+					<label for="lastname">Last Name:</label>
+					<input type="text" id="lastname" name="lastname" required><br><br>
+
+					<label for="gender">Gender:</label>
+					<input type="radio" id="male" name="gender" value="male" required>
+					<label for="male">Male</label>
+					<input type="radio" id="female" name="gender" value="female" required>
+					<label for="female">Female</label><br><br>
+
+					<label for="city">City:</label>
+					<input type="text" id="city" name="city" required><br><br>
+
+					<label for="email">Email:</label>
+					<input type="email" id="email" name="email" required><br><br>
+
+					<label for="address">Address:</label>
+					<textarea id="address" name="address"></textarea><br><br>
+
+					<input type="submit" value="Submit">
+				</div>
+				<div style="flex:1;">
+					<label for="website">Personal Site:</label>
+					<input type="url" id="website" name="website"><br><br>
+
+					<label for="phone">Phone Number:</label>
+					<input type="tel" id="phone" name="phone"><br><br>
+
+					<label for="hobby">Hobby:</label>
+					<select id="hobby" name="hobby">
+						<option value="">Select a hobby</option>
+						<option value="soccer">Soccer</option>
+						<option value="volleyball">Volleyball</option>
+						<option value="basketball">Basketball</option>
+					</select><br><br>
+
+					<label for="photo">Profile Photograph:</label>
+					<input type="file" id="photo" name="photo"><br><br>
+
+					<label for="birthdate">Birth Date:</label>
+					<input type="date" id="birthdate" name="birthdate"><br><br>
+				</div>
+			</div>
+		</fieldset>
+	</form>
+</body>
+</html>
